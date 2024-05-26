@@ -1,2 +1,2 @@
 # cvlab8
- https://itsansty.github.io/cv/cv
+ https://itsansty.github.io/cvlab8/cv
